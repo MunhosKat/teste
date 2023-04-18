@@ -1,7 +1,7 @@
-package Munhos;
+package munhos;
 import java.util.Scanner;
 
-public class projeto1 {
+public class Projeto1 {
 
 	public static void main(String[] args) {
 	
@@ -18,7 +18,7 @@ public class projeto1 {
        int n4 = n1 / 2;
        System.out.println("A metade do seu número é: "+ (n4));
        
-       
+       entrada.close();
 		
 	}
 

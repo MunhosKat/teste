@@ -1,7 +1,7 @@
-package Munhos;
+package munhos;
 import java.util.Scanner;
 
-public class projeto2 {
+public class Projeto2 {
 
 	public static void main(String[] args) {
 		Scanner entrada =new Scanner(System.in);
@@ -15,7 +15,7 @@ public class projeto2 {
 			System.out.println("ATIVADO!");
 		}
 		
-		
+		entrada.close();
 
 	}
 
