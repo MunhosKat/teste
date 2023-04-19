@@ -17,9 +17,16 @@ public class Exercicio05 {
 		int p1 = 4;
 	    int p2 = 6;
 		
-		double Media = (nota1 * p1) + (nota2 * p2) / 2;
+		double notaA = nota1 * 0.4;
+		double notaB = nota2 * 0.6;
+		double notaF = notaA / 10;
+		double notaF1 = notaB / 10;
+		double notaF2 = notaF1;
+	
 		
-		System.out.println(Media);
+		System.out.println(notaF2);
+		
+		// medPond= (notaA*0,4) 4+6 ( notaB*0,6)
 	}
 
 }
