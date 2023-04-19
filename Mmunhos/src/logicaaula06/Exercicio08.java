@@ -16,6 +16,8 @@ public class Exercicio08 {
 		
 		System.out.println("Real em dolar: " + valorReal / valorDolar);
 		
+		
+		
 
 	}
 
