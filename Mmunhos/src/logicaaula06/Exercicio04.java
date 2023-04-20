@@ -23,6 +23,8 @@ public class Exercicio04 {
 		
 		System.out.println("A nota do aluno é:" + nota4);
 		
+		entrada.close();
+		
 		
 	}
 

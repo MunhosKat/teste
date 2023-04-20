@@ -19,6 +19,8 @@ public class Exercicio07 {
 		double valorFinal = valorPago - valor1;
 		
 		System.out.println("O troco e: "+ valorFinal);
+		
+		entrada.close();
 
 	}
 

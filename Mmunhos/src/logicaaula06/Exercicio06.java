@@ -100,7 +100,7 @@ public class Exercicio06 {
 		
 		
 		
-		
+		entrada.close();
 		
 	}
 

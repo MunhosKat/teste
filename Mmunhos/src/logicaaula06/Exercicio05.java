@@ -27,6 +27,8 @@ public class Exercicio05 {
 		System.out.println(notaF2);
 		
 		// medPond= (notaA*0,4) 4+6 ( notaB*0,6)
+		
+		entrada.close();
 	}
 
 }
