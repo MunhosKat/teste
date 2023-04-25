@@ -5,23 +5,16 @@ import java.util.Scanner;
 public class WhileLaco {
 
 	public static void main(String[] args) {
-		
+
 		Scanner entrada = new Scanner(System.in);
-		
-		
-		
+
 //		int i = 0;
 //		
 //		while (i <= 10) {
 //			System.out.println("ola mundo");
 //			i++;
 //		}
-//		
-//		while
 
-		
-		
-		
 //		String jogar = "sim";
 //		
 //		while (jogar.equals("sim")) {
@@ -32,28 +25,27 @@ public class WhileLaco {
 //		}
 //		
 //		System.out.println();
-		
-		
-		
+
 		// MODIFICADORES DE LAÇO
-		
+
 		int i = 0;
-		
+
 		while (i < 10) {
 			i++;
+
 			if (i == 3 || i == 5) {
 				continue;
 			}
+
 			if (i == 7) {
 				break;
 			}
-			System.out.println("cabalhota " + 1);
+
+			System.out.println("Cambalhota " + i);
 		}
-		System.out.println("fim do programa");
-		
-		
-		
-		
+
+		System.out.println("Fim do programa");
+
 	}
 
 }

@@ -27,10 +27,10 @@ public class Exercicio03 {
 		
 		
 		
-		if (notaMedia >7) {
+		if (notaMedia >=7) {
 			System.out.println("Aprovado");
 		} else {
-			if (notaMedia >= 5 || notaMedia <7 ) {
+			if (notaMedia >= 5 || notaMedia ==7 ) {
 				System.out.println("Recuperacao");
 			} else {
 				System.out.println("Reprovado");

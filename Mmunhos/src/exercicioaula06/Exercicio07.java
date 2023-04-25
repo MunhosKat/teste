@@ -17,7 +17,11 @@ public class Exercicio07 {
 		}
         
 		
-		
+		if (a == b && c == d) {
+			System.out.println("True");
+		} else {
+			System.out.println("False");
+		}
 		
 		
 		
