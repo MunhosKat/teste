@@ -11,7 +11,7 @@ public class Exercicio08 {
 		System.out.println("Insira o valor em real: ");
 		float valorReal = entrada.nextFloat();
 		
-		float valorDolar = 5.04f;
+		float valorDolar = 4.97f;
 		float valorEuro = 5.53f;
 		float valorArge = 43.25f;
 		float valorLibra = 0.16f;

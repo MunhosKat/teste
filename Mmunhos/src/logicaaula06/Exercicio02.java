@@ -28,6 +28,7 @@ public class Exercicio02 {
 		System.out.println(str3);
 		
 	
+//System.out.printf("%d %.2f %.2f", num1, num3, num2);
 
 	}
 

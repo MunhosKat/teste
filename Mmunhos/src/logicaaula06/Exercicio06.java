@@ -27,7 +27,9 @@ public class Exercicio06 {
 		System.out.println("Nome da peça:" + peca1);
 		System.out.println("numero de pecas:" + quantidade);
 		
+		System.out.println("");
 		
+		// SE BUGAR USAR O PARSEINT
 		
 		
        System.out.print("Insira a peça que voce deseja: ");
